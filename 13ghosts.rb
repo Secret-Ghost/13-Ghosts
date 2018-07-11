@@ -100,7 +100,7 @@ puts ''
 #puts captured_content.to_s
 
 if captured_content.include? "tcp open"
-puts 'Succes, shares available for scanning!'.green
+puts 'Success, shares available for scanning!'.green
 puts ''
 
 else
